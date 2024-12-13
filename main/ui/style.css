@@ -1,0 +1,53 @@
+@font-face {
+    font-family: RTD;
+    src: url(Montserrat.ttf);
+}
+
+.container {
+    position: absolute;
+    bottom: 5px;
+    left: 1.5vw;
+    display: inline-flex;
+    overflow: hidden;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.statushud {
+    position: relative;
+    align-items: center;
+    display: inline-flex;
+    margin-left: 0.5;
+    margin-right: 0.3vw;
+    font-family: RTD;
+    font-weight: bold;
+}
+
+.statushud i {
+    font-size: .7vw;
+}
+
+.progressBar {
+    width: 3vw;
+    height: 0.4vw;
+    background-color: rgba(0, 0, 0, 0.205);
+    margin-top: 0.6vw;
+    overflow: hidden;
+    position: relative;
+    top: -.3vw;
+    margin-left: .10vw;
+    border-radius: 2px;
+}
+
+.progress {
+    width: 50%;
+    height: 100%;
+    transition: 0.7s;
+    position: absolute;
+}
+
+.playerId {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
