@@ -12,7 +12,8 @@
 
 ## Preview
 
-![](https://github.com/ScubeScripts/sc_hud/assets/104854776/8f542056-1356-463c-8aa6-c880f1a64adf)
+![Screenshot 2023-12-14 132348](https://github.com/user-attachments/assets/49751e26-66e7-4385-a147-ae55b627dc99)
+
 
 ## Requirements
 
